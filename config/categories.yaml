@@ -1,0 +1,314 @@
+# Configuration des 12 catégories officielles Google Discover
+
+categories:
+  SANTE_NATURELLE:
+    id: 1
+    name: "Santé Naturelle"
+    emoji: "🏥"
+    keywords:
+      - remède
+      - naturel
+      - santé
+      - nutrition
+      - bien-être
+      - guérir
+      - soin
+      - traitement
+      - médecine
+      - thérapie
+      - plantes
+      - huile essentielle
+      - vitamines
+      - minéraux
+      - détox
+      - immunité
+      - digestif
+      - sommeil
+      - stress
+      - douleur
+      
+  SPORT_FITNESS:
+    id: 2
+    name: "Sport & Fitness"
+    emoji: "💪"
+    keywords:
+      - sport
+      - fitness
+      - exercice
+      - musculation
+      - entraînement
+      - cardio
+      - course
+      - running
+      - gym
+      - workout
+      - crossfit
+      - yoga
+      - pilates
+      - poids
+      - répétitions
+      - séries
+      - récupération
+      - performance
+      - athlète
+      - coach
+      
+  BEAUTE_ANTIAGE:
+    id: 3
+    name: "Beauté Anti-âge"
+    emoji: "🌸"
+    keywords:
+      - beauté
+      - anti-âge
+      - peau
+      - visage
+      - rides
+      - cosmétique
+      - soin
+      - crème
+      - sérum
+      - masque
+      - collagène
+      - hydratation
+      - jeunesse
+      - lifting
+      - botox
+      - rajeunir
+      - éclat
+      - teint
+      - anti-rides
+      - régénération
+      
+  SOCIETE_TENDANCES:
+    id: 4
+    name: "Société & Tendances"
+    emoji: "🏛️"
+    keywords:
+      - société
+      - tendance
+      - comportement
+      - social
+      - évolution
+      - génération
+      - mode
+      - phénomène
+      - mouvement
+      - culture
+      - habitude
+      - changement
+      - nouveau
+      - émergent
+      - populaire
+      - viral
+      - buzz
+      - actualité
+      - débat
+      - opinion
+      
+  VOYAGES_DECOUVERTES:
+    id: 5
+    name: "Voyages & Découvertes"
+    emoji: "🗺️"
+    keywords:
+      - voyage
+      - destination
+      - tourisme
+      - découverte
+      - région
+      - pays
+      - ville
+      - vacances
+      - séjour
+      - hôtel
+      - visite
+      - excursion
+      - itinéraire
+      - guide
+      - monument
+      - paysage
+      - culture
+      - tradition
+      - aventure
+      - exploration
+      
+  LIFESTYLE_BIENETRE:
+    id: 6
+    name: "Lifestyle & Bien-être"
+    emoji: "🌿"
+    keywords:
+      - lifestyle
+      - routine
+      - habitude
+      - bien-être
+      - développement
+      - personnel
+      - équilibre
+      - harmonie
+      - zen
+      - méditation
+      - mindfulness
+      - relaxation
+      - bonheur
+      - épanouissement
+      - positif
+      - motivation
+      - inspiration
+      - quotidien
+      - vie
+      - style
+      
+  CULTURE_PATRIMOINE:
+    id: 7
+    name: "Culture & Patrimoine"
+    emoji: "🎨"
+    keywords:
+      - culture
+      - art
+      - patrimoine
+      - exposition
+      - spectacle
+      - musée
+      - théâtre
+      - cinéma
+      - livre
+      - musique
+      - festival
+      - événement
+      - artiste
+      - œuvre
+      - création
+      - histoire
+      - tradition
+      - héritage
+      - monument
+      - architecture
+      
+  PSYCHOLOGIE_MENTAL:
+    id: 8
+    name: "Psychologie & Mental"
+    emoji: "🧠"
+    keywords:
+      - psychologie
+      - mental
+      - émotion
+      - comportement
+      - stress
+      - anxiété
+      - dépression
+      - thérapie
+      - psychologue
+      - cerveau
+      - esprit
+      - pensée
+      - sentiment
+      - relation
+      - couple
+      - confiance
+      - estime
+      - personnalité
+      - traumatisme
+      - guérison
+      
+  SENIOR_VIEILLISSEMENT:
+    id: 9
+    name: "Senior & Vieillissement"
+    emoji: "👴"
+    keywords:
+      - senior
+      - retraite
+      - âge
+      - vieillissement
+      - "60+"
+      - "50+"
+      - "70+"
+      - autonomie
+      - pension
+      - grand-parent
+      - mémoire
+      - mobilité
+      - santé senior
+      - maison retraite
+      - ehpad
+      - aidant
+      - dépendance
+      - alzheimer
+      - longévité
+      - silver
+      
+  AUTOMOBILE_MOBILITE:
+    id: 10
+    name: "Automobile & Mobilité"
+    emoji: "🚗"
+    keywords:
+      - voiture
+      - auto
+      - conduite
+      - véhicule
+      - mobilité
+      - permis
+      - essence
+      - électrique
+      - hybride
+      - moteur
+      - route
+      - sécurité
+      - accident
+      - assurance
+      - entretien
+      - garage
+      - mécanique
+      - transport
+      - circulation
+      - parking
+      
+  FINANCE_INVESTISSEMENT:
+    id: 11
+    name: "Finance & Investissement"
+    emoji: "💰"
+    keywords:
+      - finance
+      - investissement
+      - épargne
+      - argent
+      - crypto
+      - bitcoin
+      - bourse
+      - action
+      - immobilier
+      - placement
+      - rendement
+      - patrimoine
+      - banque
+      - crédit
+      - prêt
+      - taux
+      - économie
+      - richesse
+      - fortune
+      - millionnaire
+      
+  RECETTES_CUISINE:
+    id: 12
+    name: "Recettes & Cuisine"
+    emoji: "🍽️"
+    keywords:
+      - recette
+      - cuisine
+      - plat
+      - culinaire
+      - food
+      - ingrédient
+      - repas
+      - menu
+      - gastronomie
+      - chef
+      - cuisson
+      - préparation
+      - dessert
+      - entrée
+      - accompagnement
+      - sauce
+      - épice
+      - saveur
+      - goût
+      - délicieux
